@@ -15,7 +15,9 @@
 ## Student Requirements:
 - [Click here](https://www.anaconda.com/products/individual) to install Pyhon 3.8 and Jupyter notebook using a Anaconda distribution]. Using the link above when you install Anaconta it will contain Python, Jupyter notebook as well as several usefull packages.
 Here is an [installation tutorial if needed](https://medium.com/@nailatulfadhilah12/how-to-install-anaconda-and-jupyter-notebook-in-windows-2b6fc8bc1bec).
-- Download the lesson files at my github.
+- Fork and clone if you are familiar with git. 
+Or downoload all files from the repository, see image below.
+<img src="Images\download_code.PNG">
 
 ### Extra reading:
 - [Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
