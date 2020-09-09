@@ -10,7 +10,7 @@
 
 |Number| Name| Description|
 |---|---|---|
-|1|Basic Python and Jupyter Notebook||
+|1|<u>[Basic Python and Jupyter Notebook](https://github.com/berkurka/python_lessons/tree/master/Class%201)</u>||
 |2|Basic Pandas||
 |3|Pandas EDA||
 |4|Excel Functions in Pandas||
