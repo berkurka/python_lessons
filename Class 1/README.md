@@ -4,7 +4,7 @@
 - Bernard Kurka | <u>[LinkedIn](https://www.linkedin.com/in/bernardkurka)</u> | <u>[Email](bkexcel2014@gmail.com)</u>
 
 
-## Learning Objectives:
+## Lesson Objectives:
 - Feel confortable using a Jupyter notebook
 - Learn Python basic data types.
 - Understand Python basic arithmetic operators.
