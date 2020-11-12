@@ -1,0 +1,31 @@
+Usually:
+remote = repository in your local computer
+origin = origin repository in version control platform such as githb, bitbucket etc.
+
+# Get files from the origin to remote saves file in your comuter
+git clone https://github.com/berkurka/python_lessons.git
+# Check modified files
+git status
+# Stage files (files I've wish to include in my commit)
+git add . (add all modified files, tracked and not traked)
+git add filename1 filename2
+# Creating a commit
+git commit -m "commit message"
+# push changes to origin
+git push
+
+# Check updates that are in origin and not in remote.
+git fetch
+# Get updates from 
+git pull
+
+# See all commits:
+git log --oneline or git log (press q to exit)
+# See all branches
+git branch
+# Create a new branch
+git checkout -b dev (creates branch from)
+# Navegate between branches
+git checkout master or git checkout dev
+
+
